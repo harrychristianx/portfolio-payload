@@ -1,2 +1,8 @@
-# portfolio-payloadcms
-Your personal portfolio powered by PayloadCMS
+# blank
+
+blank
+
+## Attributes
+
+- **Database**: mongodb
+- **Storage Adapter**: localDisk
